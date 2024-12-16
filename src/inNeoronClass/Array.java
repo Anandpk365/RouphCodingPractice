@@ -3,7 +3,7 @@ package inNeoronClass;
 import java.util.Arrays;
 import java.util.Scanner;
 
-//this is my remote access
+
 
 public class Array {
 
