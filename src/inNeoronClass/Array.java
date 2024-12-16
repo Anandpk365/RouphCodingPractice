@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-
+//Practice
 public class Array {
 
 	public static void main(String[] args) {
